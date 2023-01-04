@@ -32,15 +32,12 @@ I'm an indie full-stack developer building my version of the digital world one b
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>]
 
 #
 
 ### 📊 Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blkpvnthr&repo=github-readme-stats)](https://github.com/blkpvnthr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 ![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr&show_icons=true&theme=onedark)
 
