@@ -40,7 +40,7 @@ I'm an indie full-stack developer building my version of the digital world one b
 
 ### 📊 Stats
 
-api/pin?blkpvnthr=anuraghazra&repo=github-readme-stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=blkpvnthrt&theme=gruvbox&border_radius=4.5) -->
 
