@@ -1,8 +1,10 @@
 # 👽 blkpvnthr
 
-**`(Developer/Artist/Creator)`** ![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr&show_icons=true&theme=transparent)
+**`(Developer/Artist/Creator)`** 
 
 I'm an indie full-stack developer building my version of the digital world one block of code at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+
+![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr&show_icons=true&theme=transparent)
 
    <p align="left">
       <a href="https://github.com/blkpvnthr?tab=followers">
