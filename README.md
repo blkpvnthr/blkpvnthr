@@ -1,6 +1,6 @@
-# 🌚 blkpvnthr
+# 👽 blkpvnthr
 
-**`(Developer/Artist/Creator)`**
+**`(Developer/Artist/Creator)`** ![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr&show_icons=true&theme=transparent)
 
 I'm an indie full-stack developer building my version of the digital world one block of code at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
@@ -37,7 +37,6 @@ I'm an indie full-stack developer building my version of the digital world one b
 
 ### 📊 Stats
 
-![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=blkpvnthrt&theme=gruvbox&border_radius=4.5) -->
