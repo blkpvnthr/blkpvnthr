@@ -40,7 +40,7 @@ I'm an indie full-stack developer building my version of the digital world one b
 
 ### 📊 Stats
 
-![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthrt&show_icons=true&theme=gruvbox)
+api/pin?blkpvnthr=anuraghazra&repo=github-readme-stats
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=blkpvnthrt&theme=gruvbox&border_radius=4.5) -->
 
