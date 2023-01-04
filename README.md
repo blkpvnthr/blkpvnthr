@@ -40,7 +40,9 @@ I'm an indie full-stack developer building my version of the digital world one b
 
 ### 📊 Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blkpvnthr&repo=github-readme-stats)](https://github.com/blkpvnthr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
+![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr&show_icons=true&theme=onedark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=blkpvnthrt&theme=gruvbox&border_radius=4.5) -->
 
