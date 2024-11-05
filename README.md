@@ -3,17 +3,6 @@
 
 👋 Welcome! I'm a data scientist and aspiring quantitative researcher with a passion for innovation in algorithmic trading and quantum computing. 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
-
-   <p align="left">
-      <a href="https://github.com/blkpvnthr?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/blkpvnthr?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -60,7 +49,16 @@ I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise 
 - Mastering quantitative finance and high-performance computing
 - Building projects that bridge traditional finance with quantum data analysis
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 
+   <p align="left">
+      <a href="https://github.com/blkpvnthr?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/blkpvnthr?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
+---
 
 <details>
  <summary><h3>👩🏾‍💻 blkpvnthr's Coding Journey</h3></summary>
