@@ -3,23 +3,6 @@
 
 👋 Welcome! I'm a data scientist and aspiring quantitative researcher with a passion for innovation in algorithmic trading and quantum computing. 🚀
 
-## 📊 Background
-I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Computation. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
-
-## 💡 What I Work On
-- **Algorithmic Trading:** Developing robust trading models, integrating machine learning with real-time data to optimize strategies.
-- **Quantum Computing:** Exploring quantum computation fundamentals and their application in data science.
-- **Web Development & Automation:** Creating tools that improve workflow efficiency, from custom scripts to web applications.
-
-## 🎯 Current Goals
-- Mastering quantitative finance and high-performance computing
-- Building projects that bridge traditional finance with quantum data analysis
-  
-## 💬 Let’s Connect
-If you're interested in trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 
    <p align="left">
@@ -60,7 +43,24 @@ If you're interested in trading strategies, quantum algorithms, or collaborative
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=blkpvnthrt&theme=gruvbox&border_radius=4.5) -->
 
-#
+  
+## 💬 Let’s Connect
+If you're interested in trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
+
+
+## 📊 Background
+I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Computation. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
+
+## 💡 What I Work On
+- **Algorithmic Trading:** Developing robust trading models, integrating machine learning with real-time data to optimize strategies.
+- **Quantum Computing:** Exploring quantum computation fundamentals and their application in data science.
+- **Web Development & Automation:** Creating tools that improve workflow efficiency, from custom scripts to web applications.
+
+## 🎯 Current Goals
+- Mastering quantitative finance and high-performance computing
+- Building projects that bridge traditional finance with quantum data analysis
+
+
 
 <details>
  <summary><h3>👩🏾‍💻 blkpvnthr's Coding Journey</h3></summary>
