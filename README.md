@@ -1,5 +1,5 @@
 **`(Developer/Artist/Creator)`** 
-# blkpvnthr 🧠
+# blkpvnthr 🐈‍⬛
 
 👋🏽 Welcome! I'm a data scientist and aspiring quantitative researcher with a passion for innovation in algorithmic trading and quantum computing. 💻
 
