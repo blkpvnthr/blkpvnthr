@@ -1,7 +1,7 @@
 **`(Developer/Engineer/Investor)`** 
 # B L K P V N T H R    🐈‍⬛✨
 
-👋🏽 Welcome! I'm a data scientist and aspiring quantitative researcher with a passion for innovation in algorithmic trading and quantum computing. 💻
+I'm a data scientist and aspiring quantitative researcher with a passion for innovation in algorithmic trading and quantum computing. 💻
 
 ### 🧰 Languages and Tools
 
