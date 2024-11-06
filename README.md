@@ -22,15 +22,6 @@ I'm a data scientist and aspiring quantitative researcher with a passion for inn
 <br />
 
 
-#
-
-### 📊 Stats
-
-![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr&show_icons=true&theme=transparent)
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=blkpvnthrt&theme=gruvbox&border_radius=4.5) -->
-
   
 ## 💬 Let’s Connect
 If you're interested in trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
