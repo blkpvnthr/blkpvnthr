@@ -1,7 +1,7 @@
 **`(Developer/Engineer/Investor)`** 
 # B L K P V N T H R    🐈‍⬛✨
 
-I'm a data scientist and aspiring quantitative researcher with a passion for innovation in algorithmic trading and quantum computing. 💻
+I'm currently a Web Developer for The Johns Hopkins University Applied Physics Laboratory. Studying to become a Data Scientist and Quantitative Researcher with a interest in algorithmic trading and quantum computing. 💻
 
 ### 🧰 Languages and Tools
 
