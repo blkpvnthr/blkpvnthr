@@ -37,7 +37,7 @@ If you're interested in trading strategies, quantum algorithms, or collaborative
 
 
 ## 📊 Background
-I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Computation. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
+I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Software Development. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
 
 ## 💡 What I Work On
 - **Algorithmic Trading:** Developing robust trading models, integrating machine learning with real-time data to optimize strategies.
