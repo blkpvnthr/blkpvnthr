@@ -11,7 +11,7 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory (JHUA
      - [ICE GIANTS](https://icegiants.jhuapl.edu/) - New web site development for Ice Giants
      - [EZIE](https://ezie.jhuapl.edu/) - Redevelopment of ReactJS site into PHP
      - [LOGIC](https://logic.jhuapl.edu/) - LOGIC Web Site - Allow admins to update main page countdown clock
-     - [LSIC](https://lsic.jhuapl.edu/) - Newsletter optimization (admin and display enhancements) & developed separate JSON feeds for three specific database tables
+     - [LSIC](https://lsic.jhuapl.edu/) - Newsletter optimization & developed separate JSON feeds for three specific database tables
       
 - **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
