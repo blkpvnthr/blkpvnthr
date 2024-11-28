@@ -64,6 +64,8 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 - Mastering quantitative finance and high-performance computing
 - Building projects that bridge traditional finance with quantum data analysis
 
+## 📊 Background
+I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Software Development. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
   
 ## 💬 Let’s Connect!
 If you're interested in web development, trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
@@ -85,7 +87,6 @@ If you're interested in web development, trading strategies, quantum algorithms,
  <summary><h3>👩🏾‍💻 blkpvnthr's Coding Journey</h3></summary>
    I started my web development career at the end of 2021 as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Python. I have a burning desire to develop a consistently profitable trading algorithm so I am learning all I can about machine learning, financial mathematics, and coding. 
 <br>
-## 📊 Background
-I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Software Development. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
+
 <a href="https://asmaa.dev" target="_blank">asmaa.dev</a> 💻
 -->
