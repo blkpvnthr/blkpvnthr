@@ -63,7 +63,7 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory](http
 
   
 ## 💬 Let’s Connect!
-If you're interested in trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
+If you're interested in web development, trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 
