@@ -40,7 +40,10 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory (JHUA
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original.svg" />
 <br/>
 <br/>
+
+
 ## 💡 What I Work On 
+
 - **Web Development:** Creating secure, scalable web applications for NASA and research projects at Johns Hopkins University Applied Physics Laboratory (JHUAPL). Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
 
   <em style="color: rgb(52, 122, 235);"><u>APL Projects</u></em>:
