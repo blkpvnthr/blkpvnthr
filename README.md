@@ -40,6 +40,8 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 <div></div>
 
 
+
+
 ## 💡 What I Work On 
 
 - **Web Development:** Creating secure, scalable web applications for NASA and research projects at Johns Hopkins University Applied Physics Laboratory (JHUAPL). Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
