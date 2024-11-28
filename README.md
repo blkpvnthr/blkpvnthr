@@ -87,6 +87,5 @@ If you're interested in web development, trading strategies, quantum algorithms,
 <br>
 ## 📊 Background
 I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Software Development. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
-
-[website]: https://asmaa.dev 💻
+<a href="https://asmaa.dev" target="_blank">asmaa.dev</a> 💻
 -->
