@@ -75,7 +75,7 @@ If you're interested in web development, trading strategies, quantum algorithms,
 
 <a href="https://jhuapl.enterprise.slack.com/team/U07353G5MHQ"><img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" /></a>
 <a href="https://x.com/blkpvnthr"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" /></a>
-
+<br><br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 
@@ -94,6 +94,7 @@ If you're interested in web development, trading strategies, quantum algorithms,
  <summary><h3>👩🏾‍💻 blkpvnthr's Coding Journey</h3></summary>
    I started my web development career at the end of 2021 as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Python. I have a burning desire to develop a consistently profitable trading algorithm so I am learning all I can about machine learning, financial mathematics, and coding. 
 <br>
+
 
 <a href="https://asmaa.dev" target="_blank">asmaa.dev</a> 💻
 -->
