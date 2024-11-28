@@ -58,17 +58,23 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
       
 - **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.<br><br>
 
+
+- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 
-- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br>
 
 ## 🎯 Current Goals
 - Driving innovation in web applications at APL to support NASA and critical research projects
 - Mastering quantitative finance and high-performance computing
 - Building projects that bridge traditional finance with quantum data analysis
 
+  
+
 ## 📊 Background
 I am currently advancing my knowledge by pursuing a degree in Data Science, complemented by professional certifications in [Stock Trading](https://quantra.quantinsti.com/certificate-snap/python-trading-basic?certificateKey=a46dc94adc260434069542ffb85ecc38e4b2d23b2e94f8e6f9fe4544cc2d61b662dced7834a61c2462fe51f28dd219fc), [Machine Learning](https://courses.edx.org/certificates/d4e2422037c040b08a24c4b87ff2ff83?_gl=1*wqahys*_gcl_au*MTI4MTUzOTU3Ny4xNzI1NjI5NTQ1*_ga*MjEzMTMwNTU0Ny4xNzI1NjI5NTQ1*_ga_D3KS4KMDT0*MTcyNTYyOTU0NS4xLjEuMTcyNTYyOTYyNC41MC4wLjA.), and [Quantum Software Development](https://learning.edx.org/course/course-v1:UChicagoX+QCS11000+3T2023/progress). My skill set merges programming expertise, statistical analysis, and a deep technical foundation, enabling me to tackle complex challenges and deliver impactful results in my projects.
+
+
   
 ## 💬 Let’s Connect!
 If you're interested in web development, trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
