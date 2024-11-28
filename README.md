@@ -56,6 +56,12 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory](http
 - **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
 
+## 🎯 Current Goals
+- Driving innovation in web applications at JHUAPL to support NASA and critical research projects
+- Mastering quantitative finance and high-performance computing
+- Building projects that bridge traditional finance with quantum data analysis
+
+  
 ## 💬 Let’s Connect!
 If you're interested in trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
 
@@ -69,10 +75,6 @@ If you're interested in trading strategies, quantum algorithms, or collaborative
    </p>
 
 
-## 🎯 Current Goals
-- Driving innovation in web applications at JHUAPL to support NASA and critical research projects
-- Mastering quantitative finance and high-performance computing
-- Building projects that bridge traditional finance with quantum data analysis
 
 ---
 
