@@ -3,6 +3,9 @@
 
 As a Web Development Intern at [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) (APL), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also interested in machine learning, quantitative research, and quantum software development. 💻
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blkpvnthr&repo=github-readme-stats)](https://github.com/blkpvnthr/github-readme-stats)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="ANACONDA" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg" />
@@ -61,8 +64,7 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact&theme=dark&show_icons=true)](https://github.com/blkpvnthr/github-readme-stats)
 
 ## 🎯 Current Goals
 - Driving innovation in web applications at APL to support NASA and critical research projects
@@ -91,9 +93,6 @@ If you're interested in web development, trading strategies, quantum algorithms,
  <summary><h3>👩🏾‍💻 blkpvnthr's Coding Journey</h3></summary>
    I started my web development career at the end of 2021 as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Python. I have a burning desire to develop a consistently profitable trading algorithm so I am learning all I can about machine learning, financial mathematics, and coding. 
 <br>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blkpvnthr&repo=github-readme-stats)](https://github.com/blkpvnthr/github-readme-stats)
 
 <a href="https://asmaa.dev" target="_blank">asmaa.dev</a> 💻
 -->
