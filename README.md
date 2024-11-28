@@ -7,7 +7,7 @@ As a Web Developer at Johns Hopkins University Applied Physics Laboratory (JHUAP
 
 <img align="left" alt="ANACONDA" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg" />
 <img align="left" alt="scikitlearn" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
