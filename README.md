@@ -56,8 +56,8 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 </ul>
 </blockquote>
       
-- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.
-- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
+- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.<br>
+- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br>
 
 ## 🎯 Current Goals
 - Driving innovation in web applications at APL to support NASA and critical research projects
