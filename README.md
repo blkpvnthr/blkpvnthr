@@ -63,10 +63,10 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 
 
 <a href="https://github.com/blkpvnthr/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blkpvnthr&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blkpvnthr&layout=compact&langs_count=8&card_width=320&theme=neon" />
 </a>
 <a href="https://github.com/blkpvnthr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=blkpvnthr&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=blkpvnthr&theme=neon" />
 </a>
 <br><br>
 
