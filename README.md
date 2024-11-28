@@ -65,7 +65,7 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 - Building projects that bridge traditional finance with quantum data analysis
 
 ## 📊 Background
-I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Software Development. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
+I am currently advancing my knowledge by pursuing a degree in Data Science, complemented by professional certifications in Stock Trading, Python for Data Science, and Quantum Software Development. My skill set merges programming expertise, statistical analysis, and a deep technical foundation, enabling me to tackle complex challenges and deliver impactful results in my projects.
   
 ## 💬 Let’s Connect!
 If you're interested in web development, trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
