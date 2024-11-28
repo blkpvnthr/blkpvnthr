@@ -3,20 +3,6 @@
 
 As a Web Developer at [Johns Hopkins University Applied Physics Laboratory (JHUAPL)](https://www.jhuapl.edu/), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also studying to become a Quantitative Developer with a interest in algorithmic trading and quantum software development. 💻
 
-## 💡 What I Work On 
-- **Web Development:** Creating secure, scalable web applications for NASA and research projects at Johns Hopkins University Applied Physics Laboratory (JHUAPL). Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
-
-  <em style="color: rgb(52, 122, 235);"><u>APL Projects</u></em>:
-     - [Parker Solar Probe](https://parkersolarprobe.jhuapl.edu/) - Creation of Parker-Kit Celebration Page
-     - [ICE GIANTS](https://icegiants.jhuapl.edu/) - New web site development for Ice Giants
-     - [EZIE](https://ezie.jhuapl.edu/) - Redevelopment of ReactJS site into PHP
-     - [LOGIC](https://logic.jhuapl.edu/) - LOGIC Web Site - Allow admins to update main page countdown clock
-     - [LSIC](https://lsic.jhuapl.edu/) - Newsletter optimization & developed separate JSON feeds for three specific database tables
-      
-- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.
-- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
-
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="ANACONDA" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg" />
@@ -54,6 +40,18 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory (JHUA
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original.svg" />
 <br/>
 <br/>
+## 💡 What I Work On 
+- **Web Development:** Creating secure, scalable web applications for NASA and research projects at Johns Hopkins University Applied Physics Laboratory (JHUAPL). Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
+
+  <em style="color: rgb(52, 122, 235);"><u>APL Projects</u></em>:
+     - [Parker Solar Probe](https://parkersolarprobe.jhuapl.edu/) - Creation of Parker-Kit Celebration Page
+     - [ICE GIANTS](https://icegiants.jhuapl.edu/) - New web site development for Ice Giants
+     - [EZIE](https://ezie.jhuapl.edu/) - Redevelopment of ReactJS site into PHP
+     - [LOGIC](https://logic.jhuapl.edu/) - LOGIC Web Site - Allow admins to update main page countdown clock
+     - [LSIC](https://lsic.jhuapl.edu/) - Newsletter optimization & developed separate JSON feeds for three specific database tables
+      
+- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.
+- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
 
 ## 💬 Let’s Connect!
 If you're interested in trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
@@ -68,10 +66,6 @@ If you're interested in trading strategies, quantum algorithms, or collaborative
    </p>
 
 
-## 📊 Background
-I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Software Development. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
-
-
 ## 🎯 Current Goals
 - Driving innovation in web applications at JHUAPL to support NASA and critical research projects
 - Mastering quantitative finance and high-performance computing
@@ -82,6 +76,9 @@ I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise 
 <details>
  <summary><h3>👩🏾‍💻 blkpvnthr's Coding Journey</h3></summary>
    I started my web development career at the end of 2021 as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Python. I have a burning desire to develop a consistently profitable trading algorithm so I am learning all I can about machine learning, financial mathematics, and coding. 
+<br>
+## 📊 Background
+I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Software Development. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
 
 [website]: https://asmaa.dev 💻
 -->
