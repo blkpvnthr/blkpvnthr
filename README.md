@@ -3,9 +3,6 @@
 
 As a Web Development Intern at [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) (APL), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also interested in machine learning, quantitative research, and quantum software development. 💻
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blkpvnthr&repo=github-readme-stats)](https://github.com/blkpvnthr/github-readme-stats)
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="ANACONDA" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg" />
@@ -64,7 +61,6 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br><br>
 
-api/top-langs?username=blkpvnthr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 🎯 Current Goals
