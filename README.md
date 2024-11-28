@@ -1,7 +1,7 @@
 **`(Developer/Engineer/Investor)`** 
 # B L K P V N T H R    🐈‍⬛✨
 
-As a Web Developer at [Johns Hopkins University Applied Physics Laboratory (JHUAPL)](https://www.jhuapl.edu/), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also studying to become a Quantitative Developer with a interest in algorithmic trading and quantum software development. 💻
+As a Web Developer at [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/)(JHUAPL), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also studying to become a Quantitative Developer with a interest in algorithmic trading and quantum software development. 💻
 
 ### 🧰 Languages and Tools
 
