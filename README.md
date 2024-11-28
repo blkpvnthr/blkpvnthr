@@ -4,6 +4,13 @@
 <a href="https://www.cs.columbia.edu/~paine/" rel="nofollow"><img src="https://camo.githubusercontent.com/44c700e857be469eed1ab92acec5851fc825779a0dd19ad07902b4d666e9e63b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5465616368696e672d677265656e" alt="" data-canonical-src="https://img.shields.io/badge/Teaching-green" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/asmaa-a-17021713b/" rel="nofollow"><img src="https://camo.githubusercontent.com/dd2878e0e84abc79161f4658dff533060ad65a954fdc43b72445f9f7825d14e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue" style="max-width: 100%;"></a>
 <a href="https://github.com/blkpvnthr"><img src="https://camo.githubusercontent.com/21bcd20db459d3e60563eec008e6afee723ce4fb82adc6ae172f3b35ad71d255/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74696d6b7061696e653f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/blkpvnthr?label=Follow&amp;style=social" style="max-width: 100%;"></a>
+
+
+<p align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90b3bdcba40a2e4f6ffbd589f47b6c36ddd7110170e29bcdf5856912b3c1e53a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7461796c6f72667475726e6572267468656d653d6769746875625f6461726b"><img src="https://camo.githubusercontent.com/90b3bdcba40a2e4f6ffbd589f47b6c36ddd7110170e29bcdf5856912b3c1e53a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7461796c6f72667475726e6572267468656d653d6769746875625f6461726b" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taylorfturner&amp;theme=github_dark" style="max-width: 100%;"></a>
+</p>
+
+
 <markdown-accessiblity-table data-catalyst="">
 <table>
   <tbody>
