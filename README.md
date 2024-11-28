@@ -56,7 +56,10 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 </ul>
 </blockquote>
       
-- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.<br>
+- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
+
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br>
 
 ## 🎯 Current Goals
@@ -75,17 +78,7 @@ If you're interested in web development, trading strategies, quantum algorithms,
 
 <a href="https://jhuapl.enterprise.slack.com/team/U07353G5MHQ"><img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" /></a>
 <a href="https://x.com/blkpvnthr"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" /></a>
-<br><br><br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
-
-   <p align="left">
-      <a href="https://github.com/blkpvnthr?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/blkpvnthr?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
+<br><br>
 
 
 ---
