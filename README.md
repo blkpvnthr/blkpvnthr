@@ -64,7 +64,7 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact&theme=dark&show)](https://github.com/blkpvnthr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 
 ## 🎯 Current Goals
 - Driving innovation in web applications at APL to support NASA and critical research projects
