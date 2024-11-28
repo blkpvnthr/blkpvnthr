@@ -5,9 +5,14 @@
 <a href="https://www.linkedin.com/in/asmaa-a-17021713b/" rel="nofollow"><img src="https://camo.githubusercontent.com/dd2878e0e84abc79161f4658dff533060ad65a954fdc43b72445f9f7825d14e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue" style="max-width: 100%;"></a>
 <a href="https://github.com/blkpvnthr"><img src="https://camo.githubusercontent.com/21bcd20db459d3e60563eec008e6afee723ce4fb82adc6ae172f3b35ad71d255/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74696d6b7061696e653f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/blkpvnthr?label=Follow&amp;style=social" style="max-width: 100%;"></a>
 
+## Experience
+I specialize in developing high-performance full-stack applications tailored for front-office business users and developers, with a strong emphasis on streaming data, advanced analytics, and machine learning solutions.
+
+You can find my resume <a href="https://tim.paine.nyc/rsc/TPCV.pdf" rel="nofollow">here</a>.</p>
+
 
 <p align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90b3bdcba40a2e4f6ffbd589f47b6c36ddd7110170e29bcdf5856912b3c1e53a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7461796c6f72667475726e6572267468656d653d6769746875625f6461726b"><img src="https://camo.githubusercontent.com/90b3bdcba40a2e4f6ffbd589f47b6c36ddd7110170e29bcdf5856912b3c1e53a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7461796c6f72667475726e6572267468656d653d6769746875625f6461726b" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taylorfturner&amp;theme=github_dark" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90b3bdcba40a2e4f6ffbd589f47b6c36ddd7110170e29bcdf5856912b3c1e53a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7461796c6f72667475726e6572267468656d653d6769746875625f6461726b"><img src="https://camo.githubusercontent.com/90b3bdcba40a2e4f6ffbd589f47b6c36ddd7110170e29bcdf5856912b3c1e53a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7461796c6f72667475726e6572267468656d653d6769746875625f6461726b" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blkpvnthrr&amp;theme=github_dark" style="max-width: 100%;"></a>
 </p>
 
 
@@ -76,10 +81,6 @@
 </markdown-accessiblity-table>
 
 <div class="markdown-heading" dir="auto"><h4 class="heading-element" dir="auto">Projects I created</h4><a id="user-content-projects-i-created" class="anchor" aria-label="Permalink: Projects I created" href="#projects-i-created"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-## Experience
-I specialize in developing high-performance full-stack applications tailored for front-office business users and developers, with a strong emphasis on streaming data, advanced analytics, and machine learning solutions.
-
-You can find my resume <a href="https://tim.paine.nyc/rsc/TPCV.pdf" rel="nofollow">here</a>.</p>
 
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
