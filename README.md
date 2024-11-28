@@ -1,101 +1,118 @@
 **`(Developer/Engineer/Investor)`** 
 # Hello 👋🏽
-<a href="https://tim.paine.nyc/" rel="nofollow"><img src="https://camo.githubusercontent.com/9c8db1057dfe26478218a77c14920271455333f872f9283a10741d929f2a431c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d726564" alt="" data-canonical-src="https://img.shields.io/badge/Website-red" style="max-width: 100%;"></a>
-As a Web Development Intern at [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) (APL), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also interested in machine learning, quantitative research, and quantum software development. 💻
+<a href="https://asmaa.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/9c8db1057dfe26478218a77c14920271455333f872f9283a10741d929f2a431c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d726564" alt="" data-canonical-src="https://img.shields.io/badge/Website-red" style="max-width: 100%;"></a>
+<a href="https://www.cs.columbia.edu/~paine/" rel="nofollow"><img src="https://camo.githubusercontent.com/44c700e857be469eed1ab92acec5851fc825779a0dd19ad07902b4d666e9e63b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5465616368696e672d677265656e" alt="" data-canonical-src="https://img.shields.io/badge/Teaching-green" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/asmaa-a-17021713b/" rel="nofollow"><img src="https://camo.githubusercontent.com/dd2878e0e84abc79161f4658dff533060ad65a954fdc43b72445f9f7825d14e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue" style="max-width: 100%;"></a>
+<a href="https://github.com/timkpaine"><img src="https://camo.githubusercontent.com/21bcd20db459d3e60563eec008e6afee723ce4fb82adc6ae172f3b35ad71d255/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74696d6b7061696e653f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/timkpaine?label=Follow&amp;style=social" style="max-width: 100%;"></a>
+<markdown-accessiblity-table data-catalyst="">
+<table>
+  <tbody>
+   <tr align="center">
+    <td><b>Statistics</b></td>
+    <td><b>Languages</b></td>
+  </tr>
+  <tr valign="top">
+    <td><table>
+      <tbody><tr>
+        <td>Repositories</td>
+        <td><a href="https://github.com/polarmutex?tab=repositories">
+          45
+        </a></td>
+      </tr>
+      <tr>
+        <td>Gists</td>
+        <td><a href="https://gist.github.com/polarmutex">
+          1
+        </a></td>
+      </tr>
+      <tr>
+        <td>Stargazers</td>
+        <td>334</td>
+      </tr>
+      <tr>
+        <td>Forks</td>
+        <td>43</td>
+      </tr>
+      <tr>
+        <td>Contributed to</td>
+        <td>5</td>
+      </tr>
+      <tr>
+        <td>Commits</td>
+        <td>2292</td>
+      </tr>
+      <tr>
+        <td>Issues</td>
+        <td>110</td>
+      </tr>
+      <tr>
+        <td>Pull requests</td>
+        <td>511</td>
+      </tr>
+      <tr>
+        <td>Followers</td>
+        <td><a href="https://github.com/polarmutex?tab=followers">
+          37
+        </a></td>
+      </tr>
+      <tr>
+        <td>Following</td>
+        <td><a href="https://github.com/polarmutex?tab=following">
+          23
+        </a></td>
+      </tr>
+    </tbody></table></td>
+    <td><table><tbody><tr><td>Lua</td><td>27.99%</td></tr><tr><td>Jupyter Notebook</td><td>24.06%</td></tr><tr><td>Rust</td><td>19.82%</td></tr><tr><td>Python</td><td>9.75%</td></tr><tr><td>Nix</td><td>6.82%</td></tr><tr><td>Shell</td><td>4.1%</td></tr><tr><td>CSS</td><td>2.25%</td></tr><tr><td>C</td><td>1.55%</td></tr><tr><td>JavaScript</td><td>0.86%</td></tr><tr><td>TypeScript</td><td>0.85%</td></tr></tbody></table></td>
+  </tr>
+</tbody>
+</table>
+</markdown-accessiblity-table>
 
-### 🧰 Languages and Tools
+<div class="markdown-heading" dir="auto"><h4 class="heading-element" dir="auto">Projects I created</h4><a id="user-content-projects-i-created" class="anchor" aria-label="Permalink: Projects I created" href="#projects-i-created"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+## Experience
+I specialize in developing high-performance full-stack applications tailored for front-office business users and developers, with a strong emphasis on streaming data, advanced analytics, and machine learning solutions.
 
-<img align="left" alt="ANACONDA" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/anaconda/anaconda-original.svg" />
-<img align="left" alt="VScode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg" />
-<img align="left" alt="scikitlearn" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scikitlearn/scikitlearn-original.svg" />
-<img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tensorflow/tensorflow-original.svg" />
-<img align="left" alt="Keras" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/keras/keras-original.svg" />
-<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
-<img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-original.svg" />
-<img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-original.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/r/r-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Dreamweaver" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dreamweaver/dreamweaver-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="Replit" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/replit/replit-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" />
-<img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" /><br><br>
-<div></div>
+You can find my resume <a href="https://tim.paine.nyc/rsc/TPCV.pdf" rel="nofollow">here</a>.</p>
 
-
-
-
-## 💡 What I Work On 
-
-- **Web Development:** Creating secure, scalable web applications for NASA and APL research projects. Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
-
-<blockquote>
- <ul> <em style="color: rgb(52, 122, 235);"><u>APL Contributions</u></em>:
-  <li><a href="https://parkersolarprobe.jhuapl.edu/parker-kit/" target="_blank">Parker Solar Probe</a> - Creation of Parker-Kit Celebration Page</li>
-  <li><a href="https://icegiants.jhuapl.edu/" target="_blank">Ice Giants</a> - Developed new web site for Ice Giants research</li>
-  <li><a href="https://ezie.jhuapl.edu/" target="_blank">EZIE</a> - Redevelopment of ReactJS site into PHP</li>
-  <li><a href="https://logic.jhuapl.edu/" target="_blank">LOGIC</a> - Created interface to allow admins to update main page countdown clock</li>
-  <li><a href="https://lsic.jhuapl.edu/" target="_blank">LSIC</a> - Newsletter optimization & developed separate JSON feeds for three specific database tables</li>
-</ul>
-</blockquote>
-      
-- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.<br><br>
-
-
-- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br><br>
-
-
-<a href="https://github.com/blkpvnthr/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blkpvnthr&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
-</a>
-<a href="https://github.com/blkpvnthr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=blkpvnthr&theme=nightowl" />
-</a>
-<br><br>
-
-## 🎯 Current Goals
-- Driving innovation in web applications at APL to support NASA and critical research projects
-- Mastering quantitative finance and high-performance computing
-- Building projects that bridge traditional finance with quantum data analysis
-
-## 📊 Background
-Currently advancing my knowledge by pursuing a degree in Data Science, complemented by professional certifications in [Stock Trading](https://quantra.quantinsti.com/certificate-snap/python-trading-basic?certificateKey=a46dc94adc260434069542ffb85ecc38e4b2d23b2e94f8e6f9fe4544cc2d61b662dced7834a61c2462fe51f28dd219fc), [Machine Learning](https://courses.edx.org/certificates/d4e2422037c040b08a24c4b87ff2ff83?_gl=1*wqahys*_gcl_au*MTI4MTUzOTU3Ny4xNzI1NjI5NTQ1*_ga*MjEzMTMwNTU0Ny4xNzI1NjI5NTQ1*_ga_D3KS4KMDT0*MTcyNTYyOTU0NS4xLjEuMTcyNTYyOTYyNC41MC4wLjA.), and [Quantum Software Development](https://learning.edx.org/course/course-v1:UChicagoX+QCS11000+3T2023/progress). My skill set merges programming expertise, statistical analysis, and a deep technical foundation, enabling me to tackle complex challenges and deliver impactful results in my projects.
-<br>
-  
-## 💬 Let’s Connect!
-If you're interested in web development, trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
-
-<a href="https://www.linkedin.com/in/asmaa-a-17021713b/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" /> </a>
-<a href="mailto:blvccpvnthr@gmail.com"><img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/google/google-original.svg" /> </a>
-
-<a href="https://jhuapl.enterprise.slack.com/team/U07353G5MHQ"><img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" /> </a>
-<a href="https://x.com/blkpvnthr"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" /></a>
-<br>
-<br>
-
----
-
-<details>
- <summary><h3>👩🏾‍💻 blkpvnthr's Coding Journey</h3></summary>
-   I started my web development career at the end of 2021 as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Python. I have a burning desire to develop a consistently profitable trading algorithm so I am learning all I can about machine learning, financial mathematics, and coding. 
-<br>
-
-<a href="https://asmaa.dev" target="_blank">asmaa.dev</a> 💻
--->
+<markdown-accessiblity-table data-catalyst=""><table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/cubist.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/cubist.png" alt="Cubist" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://www.point72.com/cubist/" rel="nofollow">Point72 - Cubist</a></td>
+<td align="center">Central Research Team</td>
+<td align="center">2022-</td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/columbia.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/columbia.png" alt="Columbia" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://www.columbia.edu/" rel="nofollow">Columbia University</a></td>
+<td align="center">Associate in Computer Science</td>
+<td align="center">2015-</td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/iex.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/iex.png" alt="IEX" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://iextrading.com" rel="nofollow">IEX</a></td>
+<td align="center">Head of Software Engineeering, Cloud</td>
+<td align="center">2020-2021</td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/jpmorgan.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/jpmorgan.png" alt="J.P. Morgan" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://www.jpmorgan.com/global" rel="nofollow">J.P. Morgan</a></td>
+<td align="center">Vice President, Athena Research</td>
+<td align="center">2016-2020</td>
+</tr>
+<tr>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/maystreet.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/maystreet.png" alt="MayStreet" style="max-width: 100%;"></a></td>
+<td align="center"><a href="https://maystreet.com" rel="nofollow">MayStreet</a></td>
+<td align="center">Software Engineer</td>
+<td align="center">2015-2016</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
