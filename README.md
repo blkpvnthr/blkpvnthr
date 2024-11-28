@@ -62,12 +62,13 @@ If you're interested in trading strategies, quantum algorithms, or collaborative
 ## 📊 Background
 I'm currently pursuing a degree in Data Science at UMGC, enhancing my expertise with professional certificates in Stock Trading, Python for Data Science, and Quantum Software Development. I bring a unique blend of programming skills, statistical analysis, and technical knowledge to my projects.
 
-## 💡 What I Work On
-- **Algorithmic Trading:** Developing robust trading models, integrating machine learning with real-time data to optimize strategies.
-- **Quantum Computing:** Exploring quantum computation fundamentals and their application in data science.
-- **Web Development & Automation:** Creating tools that improve workflow efficiency, from custom scripts to web applications.
+## 💡 What I Work On 
+- **Web Development:** Creating secure, scalable web applications for NASA and research projects at Johns Hopkins University Applied Physics Laboratory (JHUAPL). Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
+- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.
+- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
 
 ## 🎯 Current Goals
+- Driving innovation in web applications at JHUAPL to support NASA and critical research projects
 - Mastering quantitative finance and high-performance computing
 - Building projects that bridge traditional finance with quantum data analysis
 
