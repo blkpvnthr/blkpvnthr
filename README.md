@@ -37,12 +37,11 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory](http
 <img align="left" alt="npm" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" />
-<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original.svg" /><br>
-<br/>
-<br/>
+<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original.svg" /><br><br>
 
 
-## 💡 What I Work On 
+
+### 💡 What I Work On 
 
 - **Web Development:** Creating secure, scalable web applications for NASA and research projects at Johns Hopkins University Applied Physics Laboratory (JHUAPL). Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
 
@@ -59,13 +58,13 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory](http
 - **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
 
-## 🎯 Current Goals
+### 🎯 Current Goals
 - Driving innovation in web applications at JHUAPL to support NASA and critical research projects
 - Mastering quantitative finance and high-performance computing
 - Building projects that bridge traditional finance with quantum data analysis
 
   
-## 💬 Let’s Connect!
+### 💬 Let’s Connect!
 If you're interested in web development, trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
