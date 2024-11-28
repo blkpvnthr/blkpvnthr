@@ -11,9 +11,6 @@ I specialize in developing high-performance full-stack applications tailored for
 You can find my resume <a href="https://tim.paine.nyc/rsc/TPCV.pdf" rel="nofollow">here</a>.</p>
 
 
-<p align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/90b3bdcba40a2e4f6ffbd589f47b6c36ddd7110170e29bcdf5856912b3c1e53a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7461796c6f72667475726e6572267468656d653d6769746875625f6461726b"><img src="https://camo.githubusercontent.com/90b3bdcba40a2e4f6ffbd589f47b6c36ddd7110170e29bcdf5856912b3c1e53a/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7461796c6f72667475726e6572267468656d653d6769746875625f6461726b" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blkpvnthr&amp;theme=github_dark" style="max-width: 100%;"></a>
-</p>
 
 
 <markdown-accessiblity-table data-catalyst="">
