@@ -85,7 +85,6 @@ If you're interested in web development, trading strategies, quantum algorithms,
 <a href="https://jhuapl.enterprise.slack.com/team/U07353G5MHQ"><img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" /></a>
 <a href="https://x.com/blkpvnthr"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" /></a>
 <br><br>
-![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr?theme=panda_icons=true)
 ---
 
 <details>
