@@ -3,7 +3,7 @@
 <a href="https://asmaa.dev/" rel="nofollow"><img src="https://camo.githubusercontent.com/9c8db1057dfe26478218a77c14920271455333f872f9283a10741d929f2a431c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d726564" alt="" data-canonical-src="https://img.shields.io/badge/Website-red" style="max-width: 100%;"></a>
 <a href="https://www.cs.columbia.edu/~paine/" rel="nofollow"><img src="https://camo.githubusercontent.com/44c700e857be469eed1ab92acec5851fc825779a0dd19ad07902b4d666e9e63b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5465616368696e672d677265656e" alt="" data-canonical-src="https://img.shields.io/badge/Teaching-green" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/asmaa-a-17021713b/" rel="nofollow"><img src="https://camo.githubusercontent.com/dd2878e0e84abc79161f4658dff533060ad65a954fdc43b72445f9f7825d14e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c7565" alt="" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue" style="max-width: 100%;"></a>
-<a href="https://github.com/timkpaine"><img src="https://camo.githubusercontent.com/21bcd20db459d3e60563eec008e6afee723ce4fb82adc6ae172f3b35ad71d255/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74696d6b7061696e653f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/timkpaine?label=Follow&amp;style=social" style="max-width: 100%;"></a>
+<a href="https://github.com/blkpvnthr"><img src="https://camo.githubusercontent.com/21bcd20db459d3e60563eec008e6afee723ce4fb82adc6ae172f3b35ad71d255/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74696d6b7061696e653f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/blkpvnthr?label=Follow&amp;style=social" style="max-width: 100%;"></a>
 <markdown-accessiblity-table data-catalyst="">
 <table>
   <tbody>
@@ -85,31 +85,31 @@ You can find my resume <a href="https://tim.paine.nyc/rsc/TPCV.pdf" rel="nofollo
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/cubist.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/cubist.png" alt="Cubist" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/cubist.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/cubist.png" alt="Cubist" style="max-width: 100%;"></a></td>
 <td align="center"><a href="https://www.point72.com/cubist/" rel="nofollow">Point72 - Cubist</a></td>
 <td align="center">Central Research Team</td>
 <td align="center">2022-</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/columbia.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/columbia.png" alt="Columbia" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/columbia.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/columbia.png" alt="Columbia" style="max-width: 100%;"></a></td>
 <td align="center"><a href="https://www.columbia.edu/" rel="nofollow">Columbia University</a></td>
 <td align="center">Associate in Computer Science</td>
 <td align="center">2015-</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/iex.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/iex.png" alt="IEX" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/iex.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/iex.png" alt="IEX" style="max-width: 100%;"></a></td>
 <td align="center"><a href="https://iextrading.com" rel="nofollow">IEX</a></td>
 <td align="center">Head of Software Engineeering, Cloud</td>
 <td align="center">2020-2021</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/jpmorgan.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/jpmorgan.png" alt="J.P. Morgan" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/jpmorgan.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/jpmorgan.png" alt="J.P. Morgan" style="max-width: 100%;"></a></td>
 <td align="center"><a href="https://www.jpmorgan.com/global" rel="nofollow">J.P. Morgan</a></td>
 <td align="center">Vice President, Athena Research</td>
 <td align="center">2016-2020</td>
 </tr>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/timkpaine/timkpaine/blob/main/static/img/maystreet.png"><img width="75" src="/timkpaine/timkpaine/raw/main/static/img/maystreet.png" alt="MayStreet" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/maystreet.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/maystreet.png" alt="MayStreet" style="max-width: 100%;"></a></td>
 <td align="center"><a href="https://maystreet.com" rel="nofollow">MayStreet</a></td>
 <td align="center">Software Engineer</td>
 <td align="center">2015-2016</td>
