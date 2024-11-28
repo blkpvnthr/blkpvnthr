@@ -17,10 +17,10 @@ As a Web Developer at Johns Hopkins University Applied Physics Laboratory (JHUAP
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
 <img align="left" alt="Ruby" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-original.svg" />
 <img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-original.svg" />
 <img align="left" alt="Dreamweaver" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dreamweaver/dreamweaver-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" />
