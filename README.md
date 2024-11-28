@@ -1,7 +1,7 @@
 **`(Developer/Engineer/Investor)`** 
 # B L K P V N T H R    🐈‍⬛✨
 
-As a Web Development Intern at [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) (JHUAPL), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also studying to become a Quantitative Researcher with a interest in algorithmic trading and quantum software development. 💻
+As a Web Development Intern at [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) (APL), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also studying to become a Quantitative Researcher with a interest in algorithmic trading and quantum software development. 💻
 
 ### 🧰 Languages and Tools
 
@@ -44,7 +44,7 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 
 ## 💡 What I Work On 
 
-- **Web Development:** Creating secure, scalable web applications for NASA and research projects at JHUAPL. Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
+- **Web Development:** Creating secure, scalable web applications for NASA and APL research projects. Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
 
 <blockquote>
  <ul> <em style="color: rgb(52, 122, 235);"><u>APL Contributions</u></em>:
@@ -60,7 +60,7 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
 
 ## 🎯 Current Goals
-- Driving innovation in web applications at JHUAPL to support NASA and critical research projects
+- Driving innovation in web applications at APL to support NASA and critical research projects
 - Mastering quantitative finance and high-performance computing
 - Building projects that bridge traditional finance with quantum data analysis
 
