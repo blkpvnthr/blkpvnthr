@@ -68,20 +68,17 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 <a href="https://github.com/blkpvnthr/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=blkpvnthr&theme=cobalt" />
 </a>
-<br><br><br>
-
+<br><br>
 
 ## 🎯 Current Goals
 - Driving innovation in web applications at APL to support NASA and critical research projects
 - Mastering quantitative finance and high-performance computing
 - Building projects that bridge traditional finance with quantum data analysis
-
- <br><br> 
+ <br>
 
 ## 📊 Background
 I am currently advancing my knowledge by pursuing a degree in Data Science, complemented by professional certifications in [Stock Trading](https://quantra.quantinsti.com/certificate-snap/python-trading-basic?certificateKey=a46dc94adc260434069542ffb85ecc38e4b2d23b2e94f8e6f9fe4544cc2d61b662dced7834a61c2462fe51f28dd219fc), [Machine Learning](https://courses.edx.org/certificates/d4e2422037c040b08a24c4b87ff2ff83?_gl=1*wqahys*_gcl_au*MTI4MTUzOTU3Ny4xNzI1NjI5NTQ1*_ga*MjEzMTMwNTU0Ny4xNzI1NjI5NTQ1*_ga_D3KS4KMDT0*MTcyNTYyOTU0NS4xLjEuMTcyNTYyOTYyNC41MC4wLjA.), and [Quantum Software Development](https://learning.edx.org/course/course-v1:UChicagoX+QCS11000+3T2023/progress). My skill set merges programming expertise, statistical analysis, and a deep technical foundation, enabling me to tackle complex challenges and deliver impactful results in my projects.
-
-<br><br>
+<br>
   
 ## 💬 Let’s Connect!
 If you're interested in web development, trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
@@ -91,7 +88,7 @@ If you're interested in web development, trading strategies, quantum algorithms,
 
 <a href="https://jhuapl.enterprise.slack.com/team/U07353G5MHQ"><img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" /></a>
 <a href="https://x.com/blkpvnthr"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" /></a>
-<br><br>
+
 ---
 
 <details>
