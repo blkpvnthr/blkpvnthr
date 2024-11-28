@@ -1,6 +1,6 @@
 **`(Developer/Engineer/Investor)`** 
 # Hello 👋🏽
-
+<a href="https://tim.paine.nyc/" rel="nofollow"><img src="https://camo.githubusercontent.com/9c8db1057dfe26478218a77c14920271455333f872f9283a10741d929f2a431c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576562736974652d726564" alt="" data-canonical-src="https://img.shields.io/badge/Website-red" style="max-width: 100%;"></a>
 As a Web Development Intern at [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) (APL), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also interested in machine learning, quantitative research, and quantum software development. 💻
 
 ### 🧰 Languages and Tools
