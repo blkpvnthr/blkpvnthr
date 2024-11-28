@@ -46,6 +46,7 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory](http
 
 - **Web Development:** Creating secure, scalable web applications for NASA and research projects at Johns Hopkins University Applied Physics Laboratory (JHUAPL). Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
 
+<blockquote>
  <ul> <em style="color: rgb(52, 122, 235);"><u>APL Projects</u></em>:
   <li><a href="https://parkersolarprobe.jhuapl.edu/" target="_blank">Parker Solar Probe</a> - Creation of Parker-Kit Celebration Page</li>
   <li><a href="https://icegiants.jhuapl.edu/" target="_blank">ICE GIANTS</a> - New web site development for Ice Giants</li>
@@ -53,7 +54,7 @@ As a Web Developer at [Johns Hopkins University Applied Physics Laboratory](http
   <li><a href="https://logic.jhuapl.edu/" target="_blank">LOGIC</a> - LOGIC Web Site - Allow admins to update main page countdown clock</li>
   <li><a href="https://lsic.jhuapl.edu/" target="_blank">LSIC</a> - Newsletter optimization & developed separate JSON feeds for three specific database tables</li>
 </ul>
-
+<blockquote>
       
 - **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.
