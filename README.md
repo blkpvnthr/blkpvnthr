@@ -70,6 +70,13 @@ I am currently advancing my knowledge by pursuing a degree in Data Science, comp
 ## 💬 Let’s Connect!
 If you're interested in web development, trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
 
+<a href="https://www.linkedin.com/in/asmaa-a-17021713b/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" /></a>
+<a href="mailto:blvccpvnthr@gmail.com"><img align="left" alt="Google" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/google/google-original.svg" /></a>
+
+<a href="https://jhuapl.enterprise.slack.com/team/U07353G5MHQ"><img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" /></a>
+<a href="https://x.com/blkpvnthr"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" /></a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)
 
    <p align="left">
