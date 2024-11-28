@@ -35,6 +35,7 @@ As a Web Developer at Johns Hopkins University Applied Physics Laboratory (JHUAP
 <br />
 
 
+<br>
   
 ## 💬 Let’s Connect
 If you're interested in trading strategies, quantum algorithms, or collaborative coding, feel free to reach out!
