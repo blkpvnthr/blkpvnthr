@@ -48,7 +48,7 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 
 <blockquote>
  <ul> <em style="color: rgb(52, 122, 235);"><u>APL Contributions</u></em>:
-  <li><a href="https://parkersolarprobe.jhuapl.edu/parker-kit/" target="_blank">Parker Solar Probe</a> - Creation of PSP - Parker-Kit Celebration Page</li>
+  <li><a href="https://parkersolarprobe.jhuapl.edu/parker-kit/" target="_blank">Parker Solar Probe</a> - Creation of Parker-Kit Celebration Page</li>
   <li><a href="https://icegiants.jhuapl.edu/" target="_blank">ICE GIANTS</a> - Developed new web site for Ice Giants research</li>
   <li><a href="https://ezie.jhuapl.edu/" target="_blank">EZIE</a> - Redevelopment of ReactJS site into PHP</li>
   <li><a href="https://logic.jhuapl.edu/" target="_blank">LOGIC</a> - LOGIC Web Site - Created interface to allow admins to update main page countdown clock</li>
