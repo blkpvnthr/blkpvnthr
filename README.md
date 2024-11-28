@@ -61,8 +61,8 @@ As a Web Development Intern at [Johns Hopkins University Applied Physics Laborat
 
 - **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br><br>
 
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=compact)](https://github.com/blkpvnthr/github-readme-stats)</center>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkpvnthr&layout=panda)](https://github.com/blkpvnthr/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ## 🎯 Current Goals
 - Driving innovation in web applications at APL to support NASA and critical research projects
@@ -85,7 +85,7 @@ If you're interested in web development, trading strategies, quantum algorithms,
 <a href="https://jhuapl.enterprise.slack.com/team/U07353G5MHQ"><img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/slack/slack-original.svg" /></a>
 <a href="https://x.com/blkpvnthr"><img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" /></a>
 <br><br>
-
+![blkpvnthr's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkpvnthr?theme=panda_icons=true)
 
 ---
 
