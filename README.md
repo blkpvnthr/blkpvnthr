@@ -1,5 +1,5 @@
 **`(Developer/Engineer/Investor)`** 
-# B L K P V N T H R    🐈‍⬛✨
+# Hello 👋🏽
 
 As a Web Development Intern at [Johns Hopkins University Applied Physics Laboratory](https://www.jhuapl.edu/) (APL), I design and build web applications that support both NASA and APL research and mission-critical projects. I'm also interested in machine learning, quantitative research, and quantum software development. 💻
 
