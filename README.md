@@ -20,7 +20,7 @@ You can find my resume <a href="https://drive.google.com/file/d/1SgDOjj_ki69ooPk
   <li><a href="https://icegiants.jhuapl.edu/" target="_blank">Ice Giants</a> - Developed new website for Ice Giants research</li>
   <li><a href="https://ezie.jhuapl.edu/" target="_blank">EZIE</a> - Redevelopment of ReactJS site into PHP</li>
   <li><a href="https://logic.jhuapl.edu/" target="_blank">LOGIC</a> - Created interface to allow admins to update main page countdown clock</li>
-  <li><a href="https://lsic.jhuapl.edu/" target="_blank">LSIC</a> - Newsletter optimization & developed separate JSON feeds for three specific database tables</li>
+  <li><a href="https://lsic.jhuapl.edu/" target="_blank">LSIC</a> - Newsletter optimization & developed separate JSON feeds various database tables</li>
 </ul>
 </blockquote>
       
