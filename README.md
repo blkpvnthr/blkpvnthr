@@ -15,7 +15,7 @@ You can find my resume <a href="https://drive.google.com/file/d/1SgDOjj_ki69ooPk
 - **Web Development:** Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
 
 <blockquote>
- <ul> <em style="color: rgb(52, 122, 235);"><u>APL Contributions</u></em>:
+ <ul> <em style="color: rgb(52, 122, 235);"><u>JHUAPL Contributions</u></em>:
   <li><a href="https://parkersolarprobe.jhuapl.edu/parker-kit/" target="_blank">Parker Solar Probe</a> - Creation of Parker-Kit Celebration Page</li>
   <li><a href="https://icegiants.jhuapl.edu/" target="_blank">Ice Giants</a> - Developed new web site for Ice Giants research</li>
   <li><a href="https://ezie.jhuapl.edu/" target="_blank">EZIE</a> - Redevelopment of ReactJS site into PHP</li>
