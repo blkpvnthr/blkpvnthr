@@ -10,114 +10,21 @@ I specialize in developing high-performance full-stack applications tailored for
 
 You can find my resume <a href="https://drive.google.com/file/d/1SgDOjj_ki69ooPk6tk0bcsZ8KvHoyUgG/view?usp=sharing" rel="nofollow">here</a>.</p>
 
+## 💡 What I Work On 
+
+- **Web Development:** Creating secure, scalable web applications for NASA and APL research projects. Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
+
+<blockquote>
+ <ul> <em style="color: rgb(52, 122, 235);"><u>APL Contributions</u></em>:
+  <li><a href="https://parkersolarprobe.jhuapl.edu/parker-kit/" target="_blank">Parker Solar Probe</a> - Creation of Parker-Kit Celebration Page</li>
+  <li><a href="https://icegiants.jhuapl.edu/" target="_blank">Ice Giants</a> - Developed new web site for Ice Giants research</li>
+  <li><a href="https://ezie.jhuapl.edu/" target="_blank">EZIE</a> - Redevelopment of ReactJS site into PHP</li>
+  <li><a href="https://logic.jhuapl.edu/" target="_blank">LOGIC</a> - Created interface to allow admins to update main page countdown clock</li>
+  <li><a href="https://lsic.jhuapl.edu/" target="_blank">LSIC</a> - Newsletter optimization & developed separate JSON feeds for three specific database tables</li>
+</ul>
+</blockquote>
+      
+- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.<br><br>
 
 
-
-<markdown-accessiblity-table data-catalyst="">
-<table>
-  <tbody>
-   <tr align="center">
-    <td><b>Statistics</b></td>
-    <td><b>Languages</b></td>
-  </tr>
-  <tr valign="top">
-    <td><table>
-      <tbody><tr>
-        <td>Repositories</td>
-        <td><a href="https://github.com/blkpvnthr?tab=repositories">
-          45
-        </a></td>
-      </tr>
-      <tr>
-        <td>Gists</td>
-        <td><a href="https://gist.github.com/blkpvnthr">
-          1
-        </a></td>
-      </tr>
-      <tr>
-        <td>Stargazers</td>
-        <td>334</td>
-      </tr>
-      <tr>
-        <td>Forks</td>
-        <td>43</td>
-      </tr>
-      <tr>
-        <td>Contributed to</td>
-        <td>5</td>
-      </tr>
-      <tr>
-        <td>Commits</td>
-        <td>2292</td>
-      </tr>
-      <tr>
-        <td>Issues</td>
-        <td>110</td>
-      </tr>
-      <tr>
-        <td>Pull requests</td>
-        <td>511</td>
-      </tr>
-      <tr>
-        <td>Followers</td>
-        <td><a href="https://github.com/blkpvnthr?tab=followers">
-          37
-        </a></td>
-      </tr>
-      <tr>
-        <td>Following</td>
-        <td><a href="https://github.com/blkpvnthr?tab=following">
-          23
-        </a></td>
-      </tr>
-    </tbody></table></td>
-    <td><table><tbody><tr><td>Lua</td><td>27.99%</td></tr><tr><td>Jupyter Notebook</td><td>24.06%</td></tr><tr><td>Rust</td><td>19.82%</td></tr><tr><td>Python</td><td>9.75%</td></tr><tr><td>Nix</td><td>6.82%</td></tr><tr><td>Shell</td><td>4.1%</td></tr><tr><td>CSS</td><td>2.25%</td></tr><tr><td>C</td><td>1.55%</td></tr><tr><td>JavaScript</td><td>0.86%</td></tr><tr><td>TypeScript</td><td>0.85%</td></tr></tbody></table></td>
-  </tr>
-</tbody>
-</table>
-</markdown-accessiblity-table>
-
-<div class="markdown-heading" dir="auto"><h4 class="heading-element" dir="auto">Projects I created</h4><a id="user-content-projects-i-created" class="anchor" aria-label="Permalink: Projects I created" href="#projects-i-created"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-
-<markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-<tr>
-<th align="center"></th>
-<th align="center"></th>
-<th align="center"></th>
-<th align="center"></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/cubist.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/cubist.png" alt="Cubist" style="max-width: 100%;"></a></td>
-<td align="center"><a href="https://www.point72.com/cubist/" rel="nofollow">Point72 - Cubist</a></td>
-<td align="center">Central Research Team</td>
-<td align="center">2022-</td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/columbia.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/columbia.png" alt="Columbia" style="max-width: 100%;"></a></td>
-<td align="center"><a href="https://www.columbia.edu/" rel="nofollow">Columbia University</a></td>
-<td align="center">Associate in Computer Science</td>
-<td align="center">2015-</td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/iex.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/iex.png" alt="IEX" style="max-width: 100%;"></a></td>
-<td align="center"><a href="https://iextrading.com" rel="nofollow">IEX</a></td>
-<td align="center">Head of Software Engineeering, Cloud</td>
-<td align="center">2020-2021</td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/jpmorgan.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/jpmorgan.png" alt="J.P. Morgan" style="max-width: 100%;"></a></td>
-<td align="center"><a href="https://www.jpmorgan.com/global" rel="nofollow">J.P. Morgan</a></td>
-<td align="center">Vice President, Athena Research</td>
-<td align="center">2016-2020</td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/blkpvnthr/blkpvnthr/blob/main/static/img/maystreet.png"><img width="75" src="/blkpvnthr/blkpvnthr/raw/main/static/img/maystreet.png" alt="MayStreet" style="max-width: 100%;"></a></td>
-<td align="center"><a href="https://maystreet.com" rel="nofollow">MayStreet</a></td>
-<td align="center">Software Engineer</td>
-<td align="center">2015-2016</td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
+- **Real-Time Data Processing:** Building high-performance systems for quantitative finance and research, addressing complex challenges with cutting-edge technologies.<br><br>
