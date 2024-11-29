@@ -12,7 +12,7 @@ You can find my resume <a href="https://drive.google.com/file/d/1SgDOjj_ki69ooPk
 
 ## 💡 What I Work On 
 
-- **Web Development:** Creating secure, scalable web applications for NASA and APL research projects. Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
+- **Web Development:** Specializing in full-stack development with PHP and modern frameworks to deliver impactful solutions.
 
 <blockquote>
  <ul> <em style="color: rgb(52, 122, 235);"><u>APL Contributions</u></em>:
