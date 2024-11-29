@@ -19,7 +19,7 @@ You can find my resume <a href="https://drive.google.com/file/d/1SgDOjj_ki69ooPk
   <li><a href="https://parkersolarprobe.jhuapl.edu/parker-kit/" target="_blank">Parker Solar Probe</a> - Created Parker-Kit Celebration Page</li>
   <li><a href="https://icegiants.jhuapl.edu/" target="_blank">Ice Giants</a> - Developed new website for Ice Giants research</li>
   <li><a href="https://ezie.jhuapl.edu/" target="_blank">EZIE</a> - Redeveloped original ReactJS site into PHP</li>
-  <li><a href="https://logic.jhuapl.edu/" target="_blank">LOGIC</a> - Implemented new interface to allow admins to maintain index page countdown clock</li>
+  <li><a href="https://logic.jhuapl.edu/" target="_blank">LOGIC</a> - Developed interface to allow admins to maintain index page countdown clock</li>
   <li><a href="https://lsic.jhuapl.edu/" target="_blank">LSIC</a> - Optimized newsletter page & developed JSON feeds for various database tables</li>
 </ul>
 </blockquote>
