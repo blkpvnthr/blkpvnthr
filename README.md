@@ -5,7 +5,7 @@
 <a href="https://github.com/blkpvnthr"><img src="https://camo.githubusercontent.com/21bcd20db459d3e60563eec008e6afee723ce4fb82adc6ae172f3b35ad71d255/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74696d6b7061696e653f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" alt="GitHub followers" data-canonical-src="https://img.shields.io/github/followers/blkpvnthr?label=Follow&amp;style=social" style="max-width: 100%;"></a>
 
 ## Experience
-I specialize in developing high-performance full-stack applications tailored for front-office business users and developers, with a strong emphasis on data manipulation, advanced analytics, and machine learning solutions.
+I specialize in developing high-performance full-stack applications tailored for front-office business users and developers, with a strong emphasis on data processing, advanced analytics, and machine learning solutions.
 
 You can find my resume <a href="https://drive.google.com/file/d/1kNJWf_GT3RwQivRUGAy-oSTO9TfHRWhb/view" rel="nofollow">here</a>.</p>
 
