@@ -23,7 +23,7 @@ You can find my resume <a href="https://drive.google.com/file/d/1kNJWf_GT3RwQivR
 </ul>
 </blockquote>
       
-- **Algorithmic Trading & Quantum Computing:** Developing data-driven trading strategies enhanced by machine learning models and exploring the integration of quantum algorithms to optimize performance.<br><br>
+- **Algorithmic Trading & Quantum Computing:** Creating trading strategies powered by machine learning models and exploring the integration of quantum algorithms to maximize efficiency and outcomes.<br><br>
 
 
-- **Data Processing:** Building high-performance data driven systems, that address complex challenges with cutting-edge technologies.<br><br>
+- **Data Processing:** Building high-performance data-driven systems, that address complex challenges with cutting-edge technologies.<br><br>
