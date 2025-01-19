@@ -7,7 +7,7 @@
 ## Experience
 I specialize in developing high-performance full-stack applications tailored for front-office business users and developers, with a strong emphasis on data processing, advanced analytics, and machine learning solutions.
 
-You can find my resume <a href="https://drive.google.com/file/d/1kNJWf_GT3RwQivRUGAy-oSTO9TfHRWhb/view" rel="nofollow">here</a>.</p>
+You can find my resume <a href="https://drive.google.com/file/d/1-oyn9TUFP2E3PJX64jaihytIKUDvhIi8/view?usp=sharing" rel="nofollow">here</a>.</p>
 
 ## 💡 What I Work On 
 
