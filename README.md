@@ -26,11 +26,15 @@ I specialize in building high-performance full-stack web applications and data-d
 
 Projects I've contributed to as part of my internship supporting the Space Exploration Sector:
 
-- 🔗 [Parker Solar Probe](https://parkersolarprobe.jhuapl.edu/parker-kit/) – Built the Parker-Kit Celebration Page  
-- 🔗 [Ice Giants](https://icegiants.jhuapl.edu/) – Engineered a new site to showcase mission concepts  
-- 🔗 [EZIE](https://ezie.jhuapl.edu/) – Redeveloped original ReactJS site into a PHP stack  
-- 🔗 [LOGIC](https://logic.jhuapl.edu/) – Developed admin UI to manage a dynamic countdown timer  
-- 🔗 [LSIC](https://lsic.jhuapl.edu/) – Optimized newsletter page, integrated JSON feeds with backend databases
+<blockquote>
+ <ul> <em style="color: rgb(52, 122, 235);"><u>JHUAPL Contributions</u></em>:
+  <li><a href="https://parkersolarprobe.jhuapl.edu/parker-kit/" target="_blank">Parker Solar Probe</a> - Created Parker-Kit Celebration Page</li>
+  <li><a href="https://icegiants.jhuapl.edu/" target="_blank">Ice Giants</a> - Engineered new website for Ice Giants research</li>
+  <li><a href="https://ezie.jhuapl.edu/" target="_blank">EZIE</a> - Redeveloped original ReactJS site into PHP</li>
+  <li><a href="https://logic.jhuapl.edu/" target="_blank">LOGIC</a> - Developed interface to allow admins to maintain index page countdown clock</li>
+  <li><a href="https://lsic.jhuapl.edu/" target="_blank">LSIC</a> - Optimized newsletter page & developed JSON feeds for various database tables</li>
+</ul>
+</blockquote>
 
 ---
 
