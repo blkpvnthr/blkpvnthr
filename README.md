@@ -27,7 +27,6 @@ I specialize in building high-performance full-stack web applications and data-d
 Projects I've contributed to as part of my internship supporting the Space Exploration Sector:
 
 <blockquote>
- <ul> <em style="color: rgb(52, 122, 235);"><u>JHUAPL Contributions</u></em>:
   <li><a href="https://parkersolarprobe.jhuapl.edu/parker-kit/" target="_blank">Parker Solar Probe</a> - Created Parker-Kit Celebration Page</li>
   <li><a href="https://icegiants.jhuapl.edu/" target="_blank">Ice Giants</a> - Engineered new website for Ice Giants research</li>
   <li><a href="https://ezie.jhuapl.edu/" target="_blank">EZIE</a> - Redeveloped original ReactJS site into PHP</li>
