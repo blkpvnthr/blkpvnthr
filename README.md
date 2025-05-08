@@ -22,8 +22,58 @@ You can find my resume <a href="https://drive.google.com/file/d/1TNi7127nPwad_xj
   <li><a href="https://lsic.jhuapl.edu/" target="_blank">LSIC</a> - Optimized newsletter page & developed JSON feeds for various database tables</li>
 </ul>
 </blockquote>
-      
-- **Algorithmic Trading & Quantum Computing:** Creating trading strategies powered by machine learning models and exploring the integration of quantum algorithms to maximize efficiency and outcomes.<br><br>
 
+# algo-bot 🧠📈
+A real-time trading assistant built using Python and Flask that connects to the Alpaca API for executing trades and retrieving live market data.
 
-- **Data Processing:** Building high-performance data-driven systems, that address complex challenges with cutting-edge technologies.<br><br>
+## 🚀 Features
+- Real-time WebSocket integration for live stock price updates
+- Flask-powered REST API for triggering trades
+- Modular strategy architecture for custom logic
+- Logs and error handling for robustness
+- Deployable to cloud environments or run locally
+
+## 🔧 Technologies Used
+- Python 3
+- Flask
+- Alpaca API
+- WebSockets
+- Pandas
+- Git/GitHub
+
+## 📂 Project Structure
+```
+algo-bot/
+├── app.py             # Main Flask app
+├── config.py          # API keys and configuration
+├── strategies/        # Custom trading logic modules
+├── utils/             # Helper functions
+└── logs/              # Error and activity logs
+```
+
+## 🧪 Example API Usage
+```bash
+POST /trade
+{
+  "symbol": "AAPL",
+  "action": "buy",
+  "quantity": 1
+}
+```
+
+## 📈 Screenshots / Diagrams
+![App Screenshot](screenshots/dashboard.png)
+![Architecture Diagram](screenshots/architecture.png)
+
+## 🎓 Project Origin
+Created as part of the UMGC Data Science B.S. program, this project showcases applied API integration, real-time data handling, and back-end software design relevant to quant dev roles.
+
+## 👤 Author
+**Asmaa Abdul-Amin**  
+🔗 [Portfolio](https://asmaa.dev)  
+🐙 [GitHub](https://github.com/blkpvnthr)  
+💼 [LinkedIn](https://linkedin.com/in/blkpvnthr)
+
+---
+
+> 📌 *This project is for educational and demonstrative purposes only. Not financial advice.*
