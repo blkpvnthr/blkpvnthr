@@ -23,7 +23,9 @@ You can find my resume <a href="https://drive.google.com/file/d/1TNi7127nPwad_xj
 </ul>
 </blockquote>
 
-# algo-bot 🧠📈
+
+# My Projects
+## algo-bot 🧠📈
 A real-time trading assistant built using Python and Flask that connects to the Alpaca API for executing trades and retrieving live market data.
 
 ## 🚀 Features
