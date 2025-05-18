@@ -1,4 +1,4 @@
-# Hello 👋🏽 I'm Asmaa
+# Hello 👋🏽
 
 <a href="https://asmaa.dev/" target="_blank"><img src="https://img.shields.io/badge/Website-red" alt="Website Badge"></a>
 <a href="https://www.linkedin.com/in/asmaa-a-17021713b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"></a>
