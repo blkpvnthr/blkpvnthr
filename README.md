@@ -10,7 +10,7 @@
 
 I specialize in building high-performance full-stack web applications and data-driven systems, with a focus on **data engineering**, **API integrations**, and **real-time analytics**.
 
-📄 [View my resume](https://drive.google.com/file/d/1TNi7127nPwad_xj6kHCqHXqqE5UPSkZ7/view?usp=sharing)
+📄 [View my resume](https://drive.google.com/file/d/1eFpR1Y9CmPC6olr5mjzoF_leRq1Xl_-k/view?usp=sharing)
 
 ---
 
@@ -37,5 +37,5 @@ Projects I've contributed to as part of my internship supporting the Space Explo
 
 ---
 
-🔗 Learn more at [asmaa.dev](https://asmaa.dev)
+🔗 Learn more at [asmaa.dev](https://blkpvnthr.github.io/)
 
