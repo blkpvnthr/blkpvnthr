@@ -1,6 +1,6 @@
 # Hello 👋🏽
 
-<a href="(https://blkpvnthr.github.io/)" target="_blank"><img src="https://img.shields.io/badge/Website-red" alt="Website Badge"></a>
+<a href="https://blkpvnthr.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-red" alt="Website Badge"></a>
 <a href="https://www.linkedin.com/in/asmaa-a-17021713b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn Badge"></a>
 <a href="https://github.com/blkpvnthr" target="_blank"><img src="https://img.shields.io/github/followers/blkpvnthr?label=Follow&style=social" alt="GitHub Followers"></a>
 
