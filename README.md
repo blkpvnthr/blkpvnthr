@@ -37,5 +37,5 @@ Projects I've contributed to as part of my internship supporting the Space Explo
 
 ---
 
-🔗 Learn more at [asmaa.dev](https://blkpvnthr.github.io/)
+🔗 Learn more at [blkpvnthr.github.io/](https://blkpvnthr.github.io/)
 
