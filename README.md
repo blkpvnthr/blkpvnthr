@@ -10,7 +10,7 @@
 
 I specialize in building high-performance full-stack web applications and data-driven systems, with a focus on **data engineering**, **API integrations**, and **real-time analytics**.
 
-📄 [View my resume](https://docs.google.com/document/d/1IhyB7j816hMpCtVZ4NTwll4GGedEAyoBy040CW_dCvI/edit?usp=sharing)
+📄 [View my resume](https://drive.google.com/file/d/1cCxAUMIkQI4s4RRBMO95NXOZJFJPKn5T/view?usp=sharing)
 
 ---
 
